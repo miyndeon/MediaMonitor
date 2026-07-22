@@ -1,7 +1,4 @@
 
-> [!NOTE]
-> Версия на Windows Forms — в ветке [windows-forms](/miyndeon/MediaMonitor/tree/windows-forms).
-
 <p align="center">
     <img src="images/mediatraker-dynamic.png" alt="MediaMonitor" width="110">
 </p>
