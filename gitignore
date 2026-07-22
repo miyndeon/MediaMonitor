@@ -1,0 +1,64 @@
+# ===== Visual Studio / Rider =====
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== Build results =====
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+[Ll]ogs/
+
+# ===== NuGet =====
+*.nupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+# ===== MSBuild / Publish =====
+*.pubxml
+*.publishproj
+publish/
+PublishProfiles/
+
+# ===== Rider / ReSharper =====
+_ReSharper*/
+*.DotSettings.user
+
+# ===== Test results =====
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+
+# ===== OS junk =====
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ===== Symbols / crash dumps =====
+*.pdb
+*.dmp
+
+# ===== ClickOnce =====
+*.publish.xml
+*.pubxml.user
+*.application
+
+# ===== User-specific files =====
+*.rsuser
+*.userprefs
+*.suo
+
+# ===== Backup files =====
+*.bak
+*.tmp
+*~
