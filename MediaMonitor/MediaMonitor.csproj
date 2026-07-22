@@ -7,7 +7,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
     <ApplicationIcon>app.ico</ApplicationIcon>
-	  
+
+	  <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+	  <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+	  <DebugType>none</DebugType>
+	  <DebugSymbols>false</DebugSymbols>
   </PropertyGroup>
 
   <ItemGroup>

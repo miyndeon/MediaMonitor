@@ -35,7 +35,7 @@
 
 ## Сборка и запуск
 
-Скачайте готовый .exe на странице [Releases](/miyndeon/MediaMonitor/releases) или соберите из исходников:
+Скачайте готовый .exe на странице [Releases](/releases) или соберите из исходников:
 
 ```bash
 git clone https://github.com/miyndeon/MediaMonitor.git
